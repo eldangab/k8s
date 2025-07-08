@@ -1,0 +1,17 @@
+# Python dependencies for Flask Inventory Management System
+
+# Flask framework and extensions
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+
+# Database drivers
+psycopg2-binary==2.9.7
+
+# WSGI server for production
+gunicorn==21.2.0
+
+# Environment management
+python-dotenv==1.0.0
+
+# CORS support (if needed for frontend)
+Flask-CORS==4.0.0
